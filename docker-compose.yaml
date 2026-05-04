@@ -30,6 +30,7 @@ services:
     command: sh -c "npm run db:init && npm run seed && npm run start:dev"
     volumes:
       - ./:/app
+      - /app/node_modules
 
 volumes:
   db-data:
