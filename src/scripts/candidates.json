@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "c-001",
+    "fullName": "Lina Hassan",
+    "headline": "Frontend Engineer | React, TypeScript | Design Systems",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "CSS",
+      "Storybook",
+      "Accessibility",
+      "Jest"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-02-03",
+    "status": "Open to work",
+    "score": 86,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Component Library",
+        "description": "Built a Storybook-driven library with theming and accessibility checks.",
+        "tech": [
+          "React",
+          "TypeScript",
+          "Storybook"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-002",
+    "fullName": "Omar El-Sayed",
+    "headline": "Frontend Engineer | React Query, Redux Toolkit | Performance",
+    "location": "Alexandria, Egypt",
+    "yearsOfExperience": 5,
+    "skills": [
+      "React",
+      "Redux Toolkit",
+      "React Query",
+      "Vite",
+      "Vitest",
+      "Sass"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-02-05",
+    "status": "Open to work",
+    "score": 90,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Analytics Dashboard",
+        "description": "Designed a filter-heavy dashboard with URL-synced state.",
+        "tech": [
+          "React",
+          "Redux Toolkit",
+          "React Query"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-003",
+    "fullName": "Sara Nabil",
+    "headline": "Frontend Developer | Next.js, React | UX-first",
+    "location": "Giza, Egypt",
+    "yearsOfExperience": 3,
+    "skills": [
+      "React",
+      "Next.js",
+      "Tailwind",
+      "Figma",
+      "Accessibility",
+      "Cypress"
+    ],
+    "availability": "1 month",
+    "updatedAt": "2026-01-29",
+    "status": "Interviewing",
+    "score": 82,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Recruitment Portal UI",
+        "description": "Built candidate directory and profile pages with clean typography.",
+        "tech": [
+          "React",
+          "Tailwind"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-004",
+    "fullName": "Youssef Abdelrahman",
+    "headline": "Frontend Engineer | Vue → React | UI Architecture",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 6,
+    "skills": [
+      "React",
+      "Vue",
+      "TypeScript",
+      "CSS Modules",
+      "Testing Library",
+      "Webpack"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-02-02",
+    "status": "Open to work",
+    "score": 88,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Design System Migration",
+        "description": "Rebuilt components with unified tokens and documentation.",
+        "tech": [
+          "React",
+          "TypeScript",
+          "Storybook"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-005",
+    "fullName": "Mariam Fathy",
+    "headline": "Frontend Engineer | React, D3 | Data Visualization",
+    "location": "Mansoura, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "D3",
+      "Recharts",
+      "CSS",
+      "React Hook Form"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-01-27",
+    "status": "Open to work",
+    "score": 84,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Hiring Analytics",
+        "description": "Candidate funnel charts + segmentation filters with URL sync.",
+        "tech": [
+          "React",
+          "D3"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-006",
+    "fullName": "Kareem Mostafa",
+    "headline": "Frontend Developer | Angular + React | Enterprise UI",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 5,
+    "skills": [
+      "React",
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jasmine"
+    ],
+    "availability": "1 month",
+    "updatedAt": "2026-02-04",
+    "status": "Open to work",
+    "score": 79,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "ATS Admin Console",
+        "description": "Recruiter console with candidate management workflows.",
+        "tech": [
+          "Angular",
+          "TypeScript"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-007",
+    "fullName": "Nour Adel",
+    "headline": "Frontend Engineer | React Native + Web | Design Tokens",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "React Native",
+      "TypeScript",
+      "Styled Components",
+      "Accessibility",
+      "Storybook"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-01-31",
+    "status": "Open to work",
+    "score": 83,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Tokenized UI Kit",
+        "description": "Shared design tokens powering components and themes.",
+        "tech": [
+          "React",
+          "React Native",
+          "Storybook"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-008",
+    "fullName": "Hassan Magdy",
+    "headline": "Frontend Engineer | React, Web Performance | Core Web Vitals",
+    "location": "Tanta, Egypt",
+    "yearsOfExperience": 5,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Lighthouse",
+      "Code Splitting",
+      "CSS"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-01-26",
+    "status": "Open to work",
+    "score": 87,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Talent Marketplace",
+        "description": "Optimized directory pages for fast scrolling and interaction.",
+        "tech": [
+          "React",
+          "Vite"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-009",
+    "fullName": "Dina Ashraf",
+    "headline": "Frontend Developer | React | UI Craft & Accessibility",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 2,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Vitest"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-02-06",
+    "status": "Open to work",
+    "score": 75,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Candidate Directory UI",
+        "description": "Search + filter UI with accessible inputs and focus states.",
+        "tech": [
+          "React",
+          "CSS"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-010",
+    "fullName": "Ahmed Saad",
+    "headline": "Frontend Engineer | React, Node | Full-stack leaning",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "CSS",
+      "React Router"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-01-28",
+    "status": "Open to work",
+    "score": 80,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Mock API + UI",
+        "description": "Local dev server to simulate latency, errors, and pagination.",
+        "tech": [
+          "Node.js",
+          "Express",
+          "React"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-011",
+    "fullName": "Mai Sherif",
+    "headline": "Frontend Engineer | React | Forms & UX",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 3,
+    "skills": [
+      "React",
+      "TypeScript",
+      "React Hook Form",
+      "Zod",
+      "CSS",
+      "Accessibility"
+    ],
+    "availability": "1 month",
+    "updatedAt": "2026-01-30",
+    "status": "Open to work",
+    "score": 81,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Recruiter Notes",
+        "description": "Notes editor with validation, autosave, and error handling.",
+        "tech": [
+          "React",
+          "React Hook Form",
+          "Zod"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-012",
+    "fullName": "Tarek Hamdi",
+    "headline": "Frontend Engineer | React | Component Patterns",
+    "location": "Alexandria, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "CSS",
+      "Testing Library",
+      "Vitest",
+      "Git"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-01-24",
+    "status": "Open to work",
+    "score": 78,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Candidate Cards",
+        "description": "Reusable card system supporting multiple layouts and sizes.",
+        "tech": [
+          "React",
+          "TypeScript"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-013",
+    "fullName": "Salma Emad",
+    "headline": "Frontend Developer | UI Engineer | CSS Specialist",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 3,
+    "skills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Animations",
+      "Figma",
+      "Responsive Design"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-02-01",
+    "status": "Open to work",
+    "score": 77,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Talent Landing Page",
+        "description": "Hero + directory page with cohesive branding and interactions.",
+        "tech": [
+          "React",
+          "CSS"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-014",
+    "fullName": "Mohamed Hany",
+    "headline": "Frontend Engineer | React | Accessibility Advocate",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 5,
+    "skills": [
+      "React",
+      "TypeScript",
+      "ARIA",
+      "Keyboard UX",
+      "Storybook",
+      "Testing Library"
+    ],
+    "availability": "1 month",
+    "updatedAt": "2026-01-23",
+    "status": "Open to work",
+    "score": 85,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Accessible Profile Modal",
+        "description": "Modal with focus trap, ESC close, and ARIA labeling.",
+        "tech": [
+          "React",
+          "TypeScript"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-015",
+    "fullName": "Reem Hossam",
+    "headline": "Frontend Engineer | React, GraphQL | Data-driven UI",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "GraphQL",
+      "Apollo",
+      "CSS",
+      "React Router"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-02-02",
+    "status": "Open to work",
+    "score": 83,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Directory + Profile",
+        "description": "Directory page with query param state and detail page with related content.",
+        "tech": [
+          "React",
+          "GraphQL"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-016",
+    "fullName": "Adham Ehab",
+    "headline": "Frontend Engineer | React | Testing & Quality",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Vitest",
+      "Testing Library",
+      "MSW",
+      "CSS"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-02-07",
+    "status": "Open to work",
+    "score": 84,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Tested Candidate Explorer",
+        "description": "Search/filter/sort covered with unit + integration tests.",
+        "tech": [
+          "React",
+          "Vitest",
+          "Testing Library"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-017",
+    "fullName": "Farah Mounir",
+    "headline": "Frontend Developer | React | Product UI",
+    "location": "Alexandria, Egypt",
+    "yearsOfExperience": 2,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Tailwind",
+      "React Router",
+      "CSS",
+      "Figma"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-01-22",
+    "status": "Open to work",
+    "score": 73,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Recruitment Landing",
+        "description": "Landing page + candidate cards with modern layout.",
+        "tech": [
+          "React",
+          "Tailwind"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-018",
+    "fullName": "Heba Salah",
+    "headline": "Frontend Engineer | React | Internationalization & UX",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 5,
+    "skills": [
+      "React",
+      "TypeScript",
+      "i18n",
+      "CSS",
+      "Accessibility",
+      "React Query"
+    ],
+    "availability": "1 month",
+    "updatedAt": "2026-02-01",
+    "status": "Open to work",
+    "score": 82,
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "projects": [
+      {
+        "name": "Localized Directory",
+        "description": "Candidate directory supporting Arabic/English with RTL styling.",
+        "tech": [
+          "React",
+          "TypeScript",
+          "i18n"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-019",
+    "fullName": "Mostafa Rashed",
+    "headline": "Frontend Engineer | React | Maps & Location UI",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Maps",
+      "CSS",
+      "React Router",
+      "Vite"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-01-21",
+    "status": "Open to work",
+    "score": 76,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Location Filter UI",
+        "description": "Location-based filtering UI with clear chip indicators.",
+        "tech": [
+          "React",
+          "TypeScript"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-020",
+    "fullName": "Aya Khaled",
+    "headline": "Frontend Engineer | React | Motion & Micro-interactions",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 3,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Framer Motion",
+      "CSS",
+      "Figma",
+      "Accessibility"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-02-03",
+    "status": "Open to work",
+    "score": 80,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Interactive Candidate Cards",
+        "description": "Motion-enhanced cards with accessible focus states and hover feedback.",
+        "tech": [
+          "React",
+          "Framer Motion"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-021",
+    "fullName": "Hany Gamal",
+    "headline": "Frontend Engineer | React | Tables & Filtering",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 6,
+    "skills": [
+      "React",
+      "TypeScript",
+      "TanStack Table",
+      "React Query",
+      "CSS",
+      "Testing Library"
+    ],
+    "availability": "1 month",
+    "updatedAt": "2026-01-20",
+    "status": "Open to work",
+    "score": 88,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Candidate Management Table",
+        "description": "Advanced sorting/filtering with persisted state and clean UX.",
+        "tech": [
+          "React",
+          "TanStack Table"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-022",
+    "fullName": "Nada Younis",
+    "headline": "Frontend Developer | React | Clean UI & Consistency",
+    "location": "Ismailia, Egypt",
+    "yearsOfExperience": 2,
+    "skills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "React Router",
+      "Vitest",
+      "Figma"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-02-05",
+    "status": "Open to work",
+    "score": 72,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Recruitment UI Kit",
+        "description": "Small set of reusable UI components (Badge, Card, Tag).",
+        "tech": [
+          "React",
+          "CSS"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-023",
+    "fullName": "Eslam Samir",
+    "headline": "Frontend Engineer | React | Animations + Performance",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Framer Motion",
+      "Performance",
+      "CSS",
+      "Vite"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-01-18",
+    "status": "Open to work",
+    "score": 79,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Animated Directory",
+        "description": "Card transitions + preserved scroll position for better UX.",
+        "tech": [
+          "React",
+          "Framer Motion"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-024",
+    "fullName": "Nada Mahmoud",
+    "headline": "Frontend Engineer | React | URL State & Routing",
+    "location": "Alexandria, Egypt",
+    "yearsOfExperience": 3,
+    "skills": [
+      "React",
+      "TypeScript",
+      "React Router",
+      "URL State",
+      "CSS",
+      "Vitest"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-02-04",
+    "status": "Open to work",
+    "score": 80,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Search + Filter UX",
+        "description": "Search and filters persisted in URL for shareable state.",
+        "tech": [
+          "React",
+          "React Router",
+          "TypeScript"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-025",
+    "fullName": "Hossam Yasser",
+    "headline": "Frontend Developer | React | UI + API Integration",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 3,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Axios",
+      "React Query",
+      "CSS",
+      "Error Handling"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-01-17",
+    "status": "Open to work",
+    "score": 78,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Candidate API Client",
+        "description": "Thin API client with request hooks and caching.",
+        "tech": [
+          "React",
+          "React Query"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-026",
+    "fullName": "Rawan Tamer",
+    "headline": "Frontend Engineer | React | Mobile-first",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 4,
+    "skills": [
+      "TypeScript",
+      "Responsive Design",
+      "CSS",
+      "Accessibility",
+      "Vite"
+    ],
+    "availability": "1 month",
+    "updatedAt": "2026-01-16",
+    "status": "Open to work",
+    "score": 81,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Responsive Recruitment UI",
+        "description": "Filter drawer + responsive cards optimized for mobile.",
+        "tech": [
+          "React",
+          "TypeScript"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-027",
+    "fullName": "Khaled Nassar",
+    "headline": "Frontend Engineer | React | Security-aware UI",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 5,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Testing Library"
+    ],
+    "availability": "2 weeks",
+    "updatedAt": "2026-01-15",
+    "status": "Open to work",
+    "score": 77,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Safe Profile Links",
+        "description": "Secure handling for external links and profile data rendering.",
+        "tech": [
+          "React",
+          "TypeScript"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-028",
+    "fullName": "Yara Mahmoud",
+    "headline": "Frontend Developer | React | Clean UI & Speed",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 2,
+    "skills": [
+      "Vite",
+      "CSS",
+      "React Router",
+      "UI Components"
+    ],
+    "availability": "Immediate",
+    "updatedAt": "2026-02-06",
+    "status": "Open to work",
+    "score": 74,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Candidate Search",
+        "description": "Search and filter UI with clear empty states.",
+        "tech": [
+          "React",
+          "Vite"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  },
+  {
+    "id": "c-029",
+    "fullName": "Amr Fekry",
+    "headline": "Senior Frontend Engineer | React | Product Architecture",
+    "location": "Cairo, Egypt",
+    "yearsOfExperience": 8,
+    "skills": [
+      "React",
+      "TypeScript",
+      "React Query"
+    ],
+    "availability": "2 months",
+    "updatedAt": "2026-01-14",
+    "status": "Open to work",
+    "score": 92,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "projects": [
+      {
+        "name": "Recruitment Platform UI",
+        "description": "End-to-end UI architecture for candidate browsing and profiles.",
+        "tech": [
+          "React",
+          "TypeScript",
+          "React Query"
+        ]
+      }
+    ],
+    "shortlisted": false,
+    "rejected": false,
+    "auditLogs": []
+  }
+]

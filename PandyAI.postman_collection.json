@@ -1,0 +1,149 @@
+{
+	"info": {
+		"_postman_id": "0afb1422-4098-4e47-923c-cc626b0d34c5",
+		"name": "PandyAI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36637616",
+		"_collection_link": "https://yomac3.postman.co/workspace/Default-workspace~dffcf3a7-ba0e-4f21-ae0c-db33ed5e928a/collection/36637616-0afb1422-4098-4e47-923c-cc626b0d34c5?action=share&source=collection_link&creator=36637616"
+	},
+	"item": [
+		{
+			"name": "Update Candidate",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"fdsf\": \"fdsf\",\n    \"status\": \"Open to work\",\n    \"shortlisted\": true,\n    \"rejected\": false\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/candidates/c-001",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"candidates",
+						"c-001"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Related Candidates",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/candidates/c-001/related?page=1&pageSize=3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"candidates",
+						"c-001",
+						"related"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "pageSize",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List Candidates",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/candidates?sortBy=score&sortOrder=ASC&page=3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"candidates"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "pageSize",
+							"value": "29",
+							"disabled": true
+						},
+						{
+							"key": "location",
+							"value": "Cairo",
+							"disabled": true
+						},
+						{
+							"key": "skill",
+							"value": "React",
+							"disabled": true
+						},
+						{
+							"key": "q",
+							"value": "Dina",
+							"disabled": true
+						},
+						{
+							"key": "sortBy",
+							"value": "score"
+						},
+						{
+							"key": "sortOrder",
+							"value": "ASC"
+						},
+						{
+							"key": "page",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get candidate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/candidates/c-001",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"candidates",
+						"c-001"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
